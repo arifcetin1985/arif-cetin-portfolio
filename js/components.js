@@ -13,19 +13,21 @@ class SiteNavbar extends HTMLElement {
             <span></span>
             <span></span>
         </button>
-        <a href="${prefix}#Bio" class="nav-link nav-desktop">Bio</a>
+        <a href="${prefix}#Özgeçmiş" class="nav-link nav-desktop">Bio</a>
         <span class="navbar-separator">|</span>
-        <a href="${prefix}#Experience" class="nav-link">Experience</a>
+        <a href="${prefix}#Deneyim" class="nav-link">Experience</a>
         <span class="navbar-separator">|</span>
-        <a href="${prefix}#Education" class="nav-link">Education</a>
+        <a href="${prefix}#Üniversite_Dışı_Deneyim" class="nav-link">Education</a>
         <span class="navbar-separator">|</span>
-        <a href="${prefix}#Project" class="nav-link">Project</a>
+        <a href="${prefix}#Sertifika_Kurs_ve_Seminerler" class="nav-link">Project</a>
         <span class="navbar-separator">|</span>
-        <a href="${prefix}#Technical_Skill" class="nav-link nav-desktop">Technical Skill</a>
+        <a href="${prefix}#Projeler" class="nav-link">Project</a>
         <span class="navbar-separator">|</span>
-        <a href="${prefix}#Research" class="nav-link nav-desktop">Research</a>
+        <a href="${prefix}#Mesleki_Yetkinlikler" class="nav-link nav-desktop">Technical Skill</a>
         <span class="navbar-separator">|</span>
-        <a href="${prefix}#Miscellaneous" class="nav-link nav-desktop">Miscellaneous</a>
+        <a href="${prefix}#Araştırma_Alanları" class="nav-link nav-desktop">Research</a>
+        <span class="navbar-separator">|</span>
+        <a href="${prefix}#Akademik Faaliyetler" class="nav-link nav-desktop">Miscellaneous</a>
     </div>
     <div class="mobile-menu" id="mobileMenu">
         <a href="${prefix}#Bio">Bio</a>
