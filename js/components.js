@@ -13,19 +13,19 @@ class SiteNavbar extends HTMLElement {
             <span></span>
             <span></span>
         </button>
-        <a href="${prefix}#Özgeçmiş" class="nav-link nav-desktop">Özgeçmiş</a>
+        <a href="${prefix}#Bio" class="nav-link nav-desktop">Özgeçmiş</a>
         <span class="navbar-separator">|</span>
-        <a href="${prefix}#Deneyim" class="nav-link">Deneyim</a>
+        <a href="${prefix}#Experience" class="nav-link">Deneyim</a>
         <span class="navbar-separator">|</span>
-        <a href="${prefix}#Üniversite_Dışı_Deneyim" class="nav-link">Üniversite Dışı Deneyim</a>
+        <a href="${prefix}#External_Experience" class="nav-link">Üniversite Dışı Deneyim</a>
         <span class="navbar-separator">|</span>
-        <a href="${prefix}#Sertifika_Kurs_ve_Seminerler" class="nav-link">Sertifika Kurs ve Seminerler</a>
+        <a href="${prefix}#Education" class="nav-link">Sertifika Kurs ve Seminerler</a>
         <span class="navbar-separator">|</span>
-        <a href="${prefix}#Projeler" class="nav-link">Projeler</a>
+        <a href="${prefix}#Project" class="nav-link">Projeler</a>
         <span class="navbar-separator">|</span>
-        <a href="${prefix}#Mesleki_Yetkinlikler" class="nav-link nav-desktop">Mesleki Yetkinlikler</a>
+        <a href="${prefix}#Technical_Skill" class="nav-link nav-desktop">Mesleki Yetkinlikler</a>
         <span class="navbar-separator">|</span>
-        <a href="${prefix}#Araştırma_Alanları" class="nav-link nav-desktop">Araştırma Alanları</a>
+        <a href="${prefix}#Research" class="nav-link nav-desktop">Araştırma Alanları</a>
         <span class="navbar-separator">|</span>
         <a href="${prefix}#Akademik Faaliyetler" class="nav-link nav-desktop">Akademik Faaliyetler</a>
     </div>
