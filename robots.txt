@@ -1,3 +1,4 @@
 User-agent:*
 Disallow:/
-Sitemap: https://www.arifcetin.com/sitemap.xml
+Sitemap: 
+
