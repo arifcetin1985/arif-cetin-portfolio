@@ -27,7 +27,7 @@ class SiteNavbar extends HTMLElement {
         <span class="navbar-separator">|</span>
         <a href="${prefix}#Research" class="nav-link nav-desktop">Araştırma Alanları</a>
         <span class="navbar-separator">|</span>
-        <a href="${prefix}#Akademik Faaliyetler" class="nav-link nav-desktop">Akademik Faaliyetler</a>
+        <a href="${prefix}#Miscellaneous" class="nav-link nav-desktop">Akademik Faaliyetler</a>
     </div>
     <div class="mobile-menu" id="mobileMenu">
         <a href="${prefix}#Bio">Bio</a>
